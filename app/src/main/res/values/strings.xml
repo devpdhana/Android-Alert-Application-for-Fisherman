@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fisherman</string>
+    <string name="register">Register</string>
+    <string name="enter_name_as_per_adhar">Enter name as per Adhar</string>
+    <string name="name_as_per_adhar">Name as per Adhar</string>
+    <string name="name">Name</string>
+    <string name="adhar_number">Adhar Number</string>
+    <string name="_1234_5678_1234">1234 5678 1234</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="_87973_12098">87973 12098</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="already_have_an_account_login">Already have an Account? login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="father_name">Father Name</string>
+    <string name="parent_number">Parent Number</string>
+    <string name="door_no">Door No</string>
+    <string name="street">Street</string>
+    <string name="town_or_village">Town or Village</string>
+</resources>
