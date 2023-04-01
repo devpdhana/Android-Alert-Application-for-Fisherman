@@ -70,8 +70,8 @@ public class User_Details extends AppCompatActivity {
                 map.put("Fathername" , fname);
                 map.put("Adharnum" , adharNum);
                 map.put("Mobilenum" , mobileNum);
-                map.put("Parentnum" , parentNum);
                 map.put("Donum" , DoorNum);
+                map.put("Parentnum" , parentNum);
                 map.put("StreetName" , streetNam);
                 map.put("Villagename" , villName);
                 map.put("Pincode" , pCode);

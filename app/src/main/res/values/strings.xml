@@ -19,4 +19,18 @@
     <string name="door_no">Door No</string>
     <string name="street">Street</string>
     <string name="town_or_village">Town or Village</string>
+    <string name="map">Map</string>
+    <string name="work">Work</string>
+    <string name="profile">Profile</string>
+    <string name="fisherman_details">Fisherman Details</string>
+    <string name="welcome">Welcome</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="adhar_details">Adhar Details</string>
+    <string name="town">Town or Village :</string>
+    <string name="streetname">Street :</string>
+    <string name="door">Door no :</string>
+    <string name="adhar_num">Adhar Number :</string>
+    <string name="mo">Mobile No :</string>
+    <string name="parent_no">Parent No :</string>
+    <string name="fname">Father Name :</string>
 </resources>
