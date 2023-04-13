@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Fisherman</string>
+
+    <string name="map_api">AIzaSyCSJWoHVahSIuDstMjCKHY8FMuPBZr4pCY</string>
+
     <string name="register">Register</string>
     <string name="enter_name_as_per_adhar">Enter name as per Adhar</string>
     <string name="name_as_per_adhar">Name as per Adhar</string>
