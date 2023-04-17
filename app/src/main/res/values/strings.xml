@@ -36,4 +36,7 @@
     <string name="mo">Mobile No :</string>
     <string name="parent_no">Parent No :</string>
     <string name="fname">Father Name :</string>
+    <string name="add_daily_works">Add Daily Works</string>
+    <string name="fish_name">Fish Name</string>
+    <string name="my_works">My Works</string>
 </resources>

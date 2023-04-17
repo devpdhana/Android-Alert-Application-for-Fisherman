@@ -96,8 +96,8 @@ public class Home extends Fragment implements OnMapReadyCallback {
                             double latitude = location.getLatitude();
                             double longitude = location.getLongitude();
                             locationTextView.setText("Latitude: " + latitude + "\nLongitude: " + longitude);
-
-                            if (latitude > 12.7987478){
+        // 12.7987478
+                            if (latitude > 0){
                                 final MediaPlayer mediaPlayer = MediaPlayer.create(getContext(), R.raw.siren);
                                 mediaPlayer.setLooping(false);
                                 final Handler handler = new Handler();
